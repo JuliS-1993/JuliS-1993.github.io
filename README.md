@@ -44,3 +44,42 @@ o	Formato: Permitir texto libre.
 
 
 Los metadatos elegidos son pertinentes para contextualizar las fotografías y resaltar la información clave sobre su creación y los sujetos representados; los protocolos de consistencia facilitarán la adición de nuevas fotografías a la colección en el futuro, manteniendo la coherencia en la presentación de la información.
+
+
+
+Título: Dré acostado
+Fecha de Creación: 2025-02-13 
+Fotógrafo: Chelo Camacho 
+Modelos: Dré Malambo
+Lugar: Bogotá/Colombia
+Descripción: Dré está acostado con el pecho descubierto y los brazos extendidos hacia el horizonte. 
+
+
+Título: Marta cicatrices
+Fecha de Creación: 2025-02-20
+Fotógrafo: Chelo Camacho
+Modelo: Marta Julia Sanchez 
+Lugar: Bogotá/Colombia
+Descripción: Marta está con el torso descubierto, con los brazos cruzados; sólo se ve su pecho y brazos. 
+
+Título: Marta sentada
+Fecha de Creación: 2025-02-20
+Fotógrafo: Chelo Camacho
+Modelos: Marta Julia Sanchez
+Lugar: Bogotá/Colombia
+Descripción: Marta está sentada con el torso descubierto, lleva una falda de flores y turbante. 
+
+
+Título: Marta y Yoko
+Fecha de Creación: 2025-02-20
+Fotógrafo: Chelo Camacho
+Modelos: Marta Julia Sanchez y Yoko Ruiz
+Lugar: Bogotá/Colombia
+Descripción: Marta está sentada con el torso desnudo, Yoko está al lado parada.
+
+Título: Yoko ventana
+Fecha de Creación: 2025-02-20
+Fotógrafo: Chelo Camacho
+Modelos: Yoko Ruiz
+Lugar: Bogotá/Colombia
+Descripción: Yoko está parada al frente de una ventana, la rodean unas cortinas. 
