@@ -1,6 +1,4 @@
 # JuliS-1993.github.io
-Esta colección hará parte del repositorio digital producto del proyecto de grado elaborado por Juli Salamanca Cortes, en la Maestría en Humanidades Digitales de la Universidad de los Andes. 
-párrafo introductorio: 
 Esta es una colección de fotografías tomadas por un fotógrafo transmasculino colombiano: Chelo Camacho; a dos mujeres trans Marta Julia Sánchez y Yoko Ruiz, y un hombre trans Dré Malambo. Estas fotos son tomadas en el marco de la conmemoración del día de la memoria trans, para celebrar los cuerpos trans, esta es una invitación íntima donde estxs artistas trans entretejen una narrativa propia que celebra sus cuerpos.
 Esta colección hará parte del repositorio digital producto del proyecto de grado elaborado por Juli Salamanca Cortes, en la Maestría en Humanidades Digitales de la Universidad de los Andes. 
 Descripción de los metadatos:
@@ -42,5 +40,7 @@ o	Mayúsculas/Minúsculas: Utilizar la primera letra de cada palabra principal e
 o	Formato: Permitir texto libre. 
 	Comenzar con la primera letra de la primera oración en mayúscula.
 	Mantener un tono descriptivo y objetivo.
-	Longitud máxima de 20 palabras. 
+	Longitud máxima de 20 palabras.
+
+
 Los metadatos elegidos son pertinentes para contextualizar las fotografías y resaltar la información clave sobre su creación y los sujetos representados; los protocolos de consistencia facilitarán la adición de nuevas fotografías a la colección en el futuro, manteniendo la coherencia en la presentación de la información.
